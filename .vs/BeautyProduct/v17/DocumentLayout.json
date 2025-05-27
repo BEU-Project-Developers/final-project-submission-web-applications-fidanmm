@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\acer\\OneDrive\\Masa\u00FCst\u00FC\\BeautyProduct\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EAF09855-EC73-4B34-BD58-E98BB97D0EB5}|BeautyProduct\\BeautyProduct.csproj|c:\\users\\acer\\onedrive\\masa\u00FCst\u00FC\\beautyproduct\\beautyproduct\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{EAF09855-EC73-4B34-BD58-E98BB97D0EB5}|BeautyProduct\\BeautyProduct.csproj|solutionrelative:beautyproduct\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\acer\\OneDrive\\Masa\u00FCst\u00FC\\BeautyProduct\\BeautyProduct\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "BeautyProduct\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\acer\\OneDrive\\Masa\u00FCst\u00FC\\BeautyProduct\\BeautyProduct\\Properties\\launchSettings.json",
+              "RelativeToolTip": "BeautyProduct\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-27T07:36:16.352Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
